@@ -17,3 +17,5 @@
 (global-display-line-numbers-mode t)
 (setq display-line-numbers-type 'relative)
 
+;; thin beam cursor
+(setq-default cursor-type 'bar) 
